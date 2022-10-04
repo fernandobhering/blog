@@ -232,3 +232,9 @@ body {
     left: 300px;
     top: 1530px;
 }
+
+@media screen and (max-width: 480px) {
+    .logo, .rodape, .textoragnar, .barra, .sublagertha {
+        width: auto;
+    }
+}
