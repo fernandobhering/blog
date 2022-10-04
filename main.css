@@ -1,0 +1,234 @@
+body {
+    position: absolute;
+    width: 680px;
+    height: 184px;
+    left: 0px;
+    top: 0px;
+    background:#110532;
+
+    
+}
+
+.logo {
+    position: absolute;
+    width: 10%;
+    left: 42px;
+    top: 19px;
+
+}
+
+.rodape {
+    height: 140px;
+    width: 1340px;
+
+    background: #5B5B5B;
+}
+
+.titulo {
+    position: absolute;
+    width: 279px;
+    height: 66px;
+    left: 501px;
+    top: -69px;
+
+    font-family: 'Ewert';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 75px;
+
+    color: #000000;
+}
+
+.subtitulo {
+    position: absolute;
+    width: 279px;
+    height: 66px;
+    left: 470px;
+    top: 19px;
+
+    font-family: 'Cinzel Decorative';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 67px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.ragnar {
+    position: absolute;
+    width: 275px;
+    height: 448px;
+    left: 42px;
+    top: 208px;
+}
+
+.textoragnar {
+    position: absolute;
+    width: 907px;
+    height: 447px;
+    left: 332px;
+    top: 283px;
+
+    font-family: 'Cinzel Decorative';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.subragnar {
+    position: absolute;
+    width: 297px;
+    height: 89px;
+    left: 20px;
+    top: 630px;
+
+    font-family: 'Cinzel Decorative';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 67px;
+    text-align: center;
+
+    color: #E41010;
+}
+
+.barra {
+    position: absolute;
+    width: 1340px;
+    height: 78px;
+    left: 0px;
+    top: 769px;
+
+    background: #5B5B5B;
+}
+
+.fotinha {
+    position: absolute;
+    width: 142px;
+    height: 78px;
+    left: 46px;
+    top: 0px
+}   
+
+.fotinhab {
+    position: absolute;
+    width: 142px;
+    height: 78px;
+    left: 205px;
+    top: 0px;
+}   
+
+.fotinhac {
+    position: absolute;
+    width: 142px;
+    height: 78px;
+    left: 365px;
+    top: 0px;
+
+}   
+
+.fotinhad {
+    position: absolute;
+    width: 142px;
+    height: 78px;
+    left: 524px;
+    top: 0px;
+}   
+
+.fotinhae {
+    position: absolute;
+    width: 142px;
+    height: 78px;
+    left: 683px;
+    top: 0px;
+}   
+
+.fotinhaf {
+    position: absolute;
+    width: 142px;
+    height: 78px;
+    left: 842px;
+    top: 0px;
+}   
+
+.fotinhag {
+    position: absolute;
+    width: 142px;
+    height: 78px;
+    left: 1006px;
+    top: 0px
+}   
+
+.fotinhah {
+    position: absolute;
+    width: 142px;
+    height: 78px;
+    left: 1170px;
+    top: 0px
+}   
+
+.lagertha {  
+    position: absolute;
+    width: 312px;
+    height: 514px;
+    left: 38px;
+    top: 886px;
+}
+
+.sublagertha {
+    position: absolute;
+    width: 868px;
+    height: 483px;
+    left: 371px;
+    top: 983px;
+
+    font-family: 'Cinzel Decorative';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.rainha {
+    position: absolute;
+    width: 268px;
+    height: 67px;
+    left: 60px;
+    top: 1370px;
+
+    font-family: 'Cinzel Decorative';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 67px;
+    text-align: center;
+
+    color: #E41010;
+}
+
+.ragnar:hover {
+    opacity: 0.3;  
+}
+
+.lagertha:hover {
+    opacity: 0.3;
+}
+
+.video {
+    position: absolute;
+    width: 658px;
+    height: 317px;
+    left: 300px;
+    top: 1530px;
+}
